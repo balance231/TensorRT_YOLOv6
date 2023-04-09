@@ -1,0 +1,6 @@
+git 连接远程进行开发参考： https://blog.csdn.net/u012037852/article/details/80756081
+
+# develop log
+2023/3/29: config git, cuda, cudnn
+cuda refenrence: https://blog.csdn.net/fengxinzioo/article/details/128248294 
+

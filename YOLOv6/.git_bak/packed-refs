@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+1356a193d7bebfd43b8ebb80816cda3046df7ce4 refs/remotes/origin/main
+4147856855a664b6e1b25c5721b127d143017cdd refs/remotes/origin/yolov6-face
+e7269211ee130ff19b22d6e141f15e6dde261dde refs/tags/0.1.0
+725913050e15a31cd091dfd7795a1891b0524d35 refs/tags/0.2.0
+9ac9ad4b5107c49daba17c5096ab5a0742dc60e7 refs/tags/0.2.1
+7123c541e7d5c3e168ea535376e4f2fabfd6e66f refs/tags/0.3.0
+50dccb2f4166a1231d8e63218015a950f49dc41c refs/tags/0.3.1
